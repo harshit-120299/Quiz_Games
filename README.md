@@ -6,6 +6,6 @@ Simple questions of additions, but requires faster reflexes.
 
 1. Just clone this directory
 2. Install Android Studio if you don't have already
-3. Go to app -> build.gradle
+3. Unzip the downloaded zipped directory Goto app -> build.gradle
 4. The App is ready, just make your own customizations
 5. Happy learning!!
